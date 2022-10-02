@@ -1,0 +1,5 @@
+name: SourdoughStarter
+format: log
+required:
+  - flour
+  - water

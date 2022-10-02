@@ -1,0 +1,82 @@
+---
+name: Oh Ninety-Two Seven-Two-Two
+date: 2022-09-27
+feedAt: 1900
+glass: 435
+lid: 19.5
+notes: Straight from Weissman's book.
+---
+date: 2022-09-27
+flour:
+  rye:
+    brand: King Arthur
+    amount: 100
+water:
+  amount: 150
+  temp: 85
+---
+date: 2022-09-28
+cull: 70
+flour:
+  rye:
+    brand: King Arthur
+    amount: 50
+  ap:
+    brand: Gold Medal
+    amount: 50
+water:
+  amount: 115
+  temp: 85
+---
+date: 2022-09-29
+cull: 70
+flour:
+  rye:
+    brand: King Arthur
+    amount: 50
+  ap:
+    brand: Gold Medal
+    amount: 50
+water:
+  amount: 100
+  temp: 85
+---
+date: 2022-09-30
+cull: 70
+flour:
+  rye:
+    brand: King Arthur
+    amount: 50
+  ap:
+    brand: Gold Medal
+    amount: 50
+water:
+  amount: 100
+  temp: 85
+---
+date: 2022-10-01
+cull: 70
+flour:
+  rye:
+    brand: King Arthur
+    amount: 50
+  ap:
+    brand: Gold Medal
+    amount: 50
+water:
+  amount: 100
+  temp: 85
+---
+date: 2022-10-02
+cull: 50
+flour:
+  rye:
+    brand: King Arthur
+    amount: 50
+  ap:
+    brand: Gold Medal
+    amount: 50
+water:
+  amount: 100
+  temp: 85
+---

@@ -1,0 +1,7 @@
+name: Straight Dough
+required:
+  - bulk: time
+    # Overnight is a boolean
+  - overnight: bool
+  - folds: int
+  - proof: time

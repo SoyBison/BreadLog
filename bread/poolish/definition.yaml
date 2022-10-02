@@ -1,0 +1,6 @@
+name: Poolish
+required:
+    poolish: bread
+    folds: int
+    bulk: time
+    proof: time

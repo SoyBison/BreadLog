@@ -1,0 +1,8 @@
+name: Bread
+required:
+  - flour
+  - water
+  - salt
+  - yeast
+  - bake
+  - finish

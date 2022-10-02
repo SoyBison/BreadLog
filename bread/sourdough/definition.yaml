@@ -1,0 +1,4 @@
+name: Sourdough
+required:
+  # The yeast source should be the name of a SourdoughStarter
+  - source: sourdough_starter

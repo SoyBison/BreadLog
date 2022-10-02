@@ -1,0 +1,21 @@
+name: By-the-Book Weissman Loaf
+date: 2022-09-28
+flour:
+    ap:
+      brand: Gold Mark
+      amount: 750
+    wheat:
+      brand: O Organics
+      amount: 45
+water: 562
+yeast: 4
+salt: 17
+overnight: true
+folds: 3
+bake:
+  time: 20m
+  temp: 500
+finish:
+  time: 15m
+  temp: 450
+notes: no real variation on weissman 22-09-26

@@ -1,0 +1,34 @@
+name: Forkish's 80% Biga White Bread
+date: 2022-10-02
+poolish:
+  date: 2022-10-01T20:00:00-04:00
+  flour:
+    ap:
+      brand: King Arthur
+      amount: 800
+  yeast:
+    brand: Platinum Red Star
+    amount: 0.64
+  water:
+    amount: 544
+    temp: 80
+  salt:
+    amount: 0
+dough:
+  flour:
+    ap:
+      brand: King Arthur
+      amount: 200
+  water:
+    amount: 206
+    temp: 105
+  salt:
+    type: mortonFineSea
+    amount: 22
+  yeast:
+    brand: Platinum Red Star
+    amount: 2
+folds: 3
+poolish: 12h
+bulk: 3h30m
+proof: 1h

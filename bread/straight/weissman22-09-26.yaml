@@ -1,0 +1,21 @@
+name: By-the-Book Weissman Loaf
+date: 2022-09-26
+flour:
+    ap:
+      brand: Gold Mark
+      amount: 750
+    wheat:
+      brand: O Organics
+      amount: 45
+water: 562
+yeast: 4
+salt: 17
+overnight: true
+folds: 3
+bake:
+  time: 20m
+  temp: 500
+finish:
+  time: 15m
+  temp: 450
+notes: Delicious, the extra 45g of wheat flour goes a long way I think, although I'd have to compare to an-all white similar dough to know for sure. Nutty, and a complex crust. Crumb is fluffy but still thick. Great for fancy sandwiches, and crisps up nicely on the stove.
